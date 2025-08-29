@@ -6,6 +6,7 @@ Este projeto consiste em um jogo de máquina caça-níquel (slot machine) chamad
 O projeto foi desenvolvido inteiramente em linguagem Python. O jogo é executado no terminal e oferece uma experiência interativa e divertida, simulando as mecânicas de uma máquina de cassino. O objetivo é proporcionar entretenimento e demonstrar a aplicação de diversas bibliotecas Python.
 
 Propósito
+
 O principal propósito do JJJACKSPOT é servir como um projeto de entretenimento, além de um exercício prático de programação. Através dele, são explorados conceitos como manipulação de eventos de teclado, geração de números aleatórios, e formatação de saídas no console para criar uma interface de usuário amigável, mesmo em um ambiente de texto. O projeto também serve para consolidar o conhecimento dos autores em lógica de programação.
 Funcionalidades
 O script, desenvolvido em Python, simula uma máquina caça-níquel com as seguintes funcionalidades:
@@ -17,7 +18,9 @@ Controle de Jogo: O jogador pode encerrar a partida a qualquer momento pressiona
 Relatório Final: Ao final da sessão, seja por falta de créditos ou por decisão do jogador, um resumo é exibido com o total de rodadas jogadas e o montante total ganho.
 
 Como Usar
+
 Para executar o jogo, siga estes passos:
+
 Pré-requisitos:
 Certifique-se de ter o Python instalado em sua máquina.
 Instale as bibliotecas necessárias através do pip no seu terminal:
