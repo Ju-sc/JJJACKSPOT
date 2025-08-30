@@ -114,8 +114,6 @@ while (dnv == True):
                 ranvet.append(rans)
             matriznumpy = np.array(ranvet).reshape(3, 3)
             ran = matriznumpy
-            print (jogousorte)
-            print(sorte)
 
             if jogousorte == sorte:
                 print("♥️———————————♣️")
@@ -196,4 +194,5 @@ while (dnv == True):
             exit()         
         else:
             print("Inválido tente novamente.\n")
+
 
