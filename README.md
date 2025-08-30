@@ -37,4 +37,4 @@ O jogo será iniciado diretamente no terminal. Siga as instruções na tela para
   4. Créditos
 Este projeto foi desenvolvido por Jailine Coelho Santos, Juliana Laura Silva Leite e Julio Da Cruz Neto.
 
-  5.Fluxograma
+  5. Fluxograma
