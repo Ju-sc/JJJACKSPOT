@@ -2,7 +2,7 @@
 
   1. Introdução
 
-Este projeto consiste em um jogo de máquina caça-níquel chamado "JJJACKSPOT", usando como referência a primeira letra dos participantes do projeto.
+Este projeto consiste em um jogo de máquina caça-níquel (slot machine) chamado "JJJACKSPOT", usando como referência a primeira letra dos participantes do projeto.
 O projeto foi desenvolvido inteiramente em linguagem Python. O jogo é executado no terminal e oferece uma experiência interativa e divertida, simulando as mecânicas de uma máquina de cassino. O objetivo é proporcionar entretenimento e demonstrar a aplicação de diversas bibliotecas Python.
 
   2. Propósito
