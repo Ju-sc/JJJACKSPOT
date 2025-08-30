@@ -38,3 +38,6 @@ O jogo será iniciado diretamente no terminal. Siga as instruções na tela para
 Este projeto foi desenvolvido por Jailine Coelho Santos, Juliana Laura Silva Leite e Julio Da Cruz Neto.
 
   5. Fluxograma
+     Clique <a href="https://www.canva.com/design/DAGxgHrPqQ0/10FuubGTS1DMIwDZ5LCM9w/edit?utm_content=DAGxgHrPqQ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">aqui</a> para acessar o fluxograma para melhor visualização.
+
+     <img src="./Fluxograma_JJJ.png" width = 300/>
